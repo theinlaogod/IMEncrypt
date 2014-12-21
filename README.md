@@ -4,7 +4,9 @@ IMEncrypt
 Python Image Encryption - README
 
 AUTHOR:  Cahlen Humphreys (phku)
+
 EMAIL:   cahlen@gmail.com
+
 THANKS:   #blacksun on eris free, and Tilar.
 
 DESCRIPTION:  
