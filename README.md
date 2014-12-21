@@ -10,6 +10,7 @@ EMAIL:   cahlen@gmail.com
 THANKS:   #blacksun on eris free, and Tilar.
 
 DESCRIPTION:  
+
 A simple image encryption program written completely in python.  You simply run
  the program 'python imencrypt.py' and enter your desired password to encrypt 
 of decrypt the image.  After you choose your password, choose either encrypt or
@@ -17,14 +18,17 @@ of decrypt the image.  After you choose your password, choose either encrypt or
 the image to encrypt, or the image to decrypt with your given password.
 
 HOW TO RUN:
+
 python imencrypt.py
 
 REQUIREMENTS:
+
 *** Python 2.7.6 or greater
 *** PIL, Tkinter, PyCrypto, hashlib, binascii libraries
 *** A decent computer.
 
 COMMENTS:
+
 12/19/2014 - Remember, I'm a mathematician, so the code could probably look
 prettier.  However it runs cleanly.
 
@@ -38,6 +42,7 @@ so that is not the problem.  The problem is making it look pretty in the GUI.
 Maybe one day I'll actually incorporate this into the GUI.
 
 LICENSE:
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Cahlen Humphreys 
