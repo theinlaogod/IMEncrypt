@@ -1,6 +1,8 @@
 IMEncrypt
 =========
 
+![alt tag](http://i.imgur.com/y7wlkJM.png)
+
 Python Image Encryption - README
 
 AUTHOR:  Cahlen Humphreys (phku)
@@ -40,6 +42,14 @@ letter characters and replaces them with random number, then reconstructs an
 image using the same dimensions as the original image.  This in fact works,
 so that is not the problem.  The problem is making it look pretty in the GUI.
 Maybe one day I'll actually incorporate this into the GUI.
+
+12/21/2014 - Here is an example of an image before encryption, and then an 
+image reconstructed from the crypto bitstream binary.  Seeing this reconstruction
+is disable in the GUI because I haven't yet found a pretty way to display it.
+However if you uncomment out the encim.show() in line 131 you'll get an image
+reconstruction from the crypto bitstream binary.  This is completely optional.
+
+![alt tag](http://i.imgur.com/DjAnghm.png) ![alt tag](http://i.imgur.com/vQ8Cwvf.png)
 
 LICENSE:
 
